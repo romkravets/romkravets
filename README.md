@@ -62,7 +62,7 @@ Agent SDK integration
 
 AI is a core part of my development workflow, not just a tool I occasionally use:
 
-- I use **Claude (Anthropic)** daily — for architecture decisions, code reviews, refactoring and debugging
+- I use **Claude (Anthropic)** daily — for architecture decisions, code reviews, refactoring, debugging, SEO and performance optimization
 - I build **AI-powered products**: colour analysis, style recommendations, intelligent search and more
 - I apply **prompt engineering** to get consistent, production-quality outputs from LLMs
 - I integrate **LLM APIs** (Anthropic, OpenAI) directly into apps — from simple chatbots to agentic workflows
