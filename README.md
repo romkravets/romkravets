@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a Full-Stack MERN developer with **6+ years of experience** building web and mobile applications for clients ranging from individuals to corporations. I've shipped products across **crypto, healthcare, tourism, marketing, dating, marketplace, hotel, delivery, auto, gaming** and other industries.
+I'm a Full-Stack MERN developer with **6+ years of experience** building web and mobile applications for clients ranging from individuals to corporations. I've shipped products across **crypto, healthcare, marketing, travel, dating, marketplace, delivery, sport** and other industries, including a popular mobile dating app where users can connect with like-minded individuals based on their interests and preferences.
 
 I pride myself on frequent, professional and friendly communication — respecting deadlines, thinking outside the box, and helping clients build **successful products**, not just features.
 
