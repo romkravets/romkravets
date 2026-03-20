@@ -77,7 +77,7 @@ This means I ship faster, write cleaner code and catch issues earlier than a tra
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=romkravets&show_icons=true&theme=dark&hide_border=true" alt="Roman's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romkravets&layout=compact&theme=dark&hide_border=true&hide=php,css,html,scss" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romkravets&layout=compact&theme=dark&hide_border=true&hide=php,css,html" alt="Top Languages" />
 </p>
 
 ---
