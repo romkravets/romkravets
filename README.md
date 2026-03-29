@@ -72,12 +72,6 @@ This means I ship faster, write cleaner code and catch issues earlier than a tra
 
 ---
 
-## 📫 Contact
-
-- GitHub: [github.com/romkravets](https://github.com/romkravets)
-
----
-
 <p align="center">
   <i>Open to interesting projects. Let's build something great together.</i>
 </p>
