@@ -72,16 +72,6 @@ This means I ship faster, write cleaner code and catch issues earlier than a tra
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=romkravets&show_icons=true&theme=dark&hide_border=true" alt="Roman's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romkravets&layout=compact&theme=dark&hide_border=true&hide=php,css" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Contact
 
 - GitHub: [github.com/romkravets](https://github.com/romkravets)
