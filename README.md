@@ -1,15 +1,6 @@
 <h1 align="center">Roman Kravets</h1>
 <h3 align="center">Full-Stack Developer · MERN · React · React Native · Node.js · JavaScript · Computer Science Teacher</h3>
 
-<p align="center">
-  <a href="https://github.com/romkravets">
-    <img src="https://komarev.com/ghpvc/?username=romkravets&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/romkravets?tab=followers">
-    <img src="https://img.shields.io/github/followers/romkravets?label=Followers&style=social" alt="followers" />
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
