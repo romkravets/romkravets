@@ -49,6 +49,10 @@ Agent SDK integration
 
 ---
 
+<a href="https://aiseen.app" targer="_blank">aiseen.app</a>
+
+---
+
 ## 🤖 How I Work with AI
 
 AI is a core part of my development workflow, not just a tool I occasionally use:
