@@ -49,8 +49,8 @@ Agent SDK integration
 
 ---
 
-- [[Назва посилання](aiseen.app)]([https://example.com](https://aiseen.app))
-- [[Назва посилання](tasialook.com)]([https://example.com)](https://tasialook.com)
+- [aiseen.app](https://aiseen.app)
+- [tasialook.com](https://tasialook.com)
 
 ---
 
