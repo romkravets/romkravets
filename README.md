@@ -1,4 +1,3 @@
-<h1 align="center">Roman Kravets</h1>
 <h3 align="center">Full-Stack Developer · MERN · React · React Native · Node.js · JavaScript · Computer Science Teacher</h3>
 
 ---
