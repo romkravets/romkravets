@@ -51,7 +51,8 @@ Agent SDK integration
 - [aiseen.app](https://aiseen.app)
 - [tasialook.com](https://tasialook.com)
 - [Chrome Extension AISEEN.APP](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig)
-- [mapfairytales.com](https://mapfairytales.com) 
+- [mapfairytales.com](https://mapfairytales.com)
+- [[kradene-ua](https://kradene-ua.vercel.app)
 
 ---
 
