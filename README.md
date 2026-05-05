@@ -1,58 +1,64 @@
-<h3 align="center">Full-Stack Developer · MERN · React · React Native · Node.js · JavaScript · Computer Science Teacher</h3>
+<h3 align="center">Frontend Developer · Full-Stack capable · Computer Science Teacher</h3>
 
 ---
 
-## 👋 About Me
+## 👋 SUMMARY
 
-I'm a Full-Stack MERN developer with **6+ years of experience** building web and mobile applications for clients ranging from individuals to corporations. I've shipped products across **crypto, healthcare, marketing, travel, dating, marketplace, delivery, sport** and other industries, including a popular mobile dating app where users can connect with like-minded individuals based on their interests and preferences.
-
-I pride myself on frequent, professional and friendly communication — respecting deadlines, thinking outside the box, and helping clients build **successful products**, not just features.
-
-- 💻 **6+ years** in software development
-- 💼 **50+ completed projects**
-- ⏱️ Delivery-focused — results over hours
-- 💬 Clear, friendly and professional communication
-- 🗓️ Available for full-time or freelance engagement
+Frontend developer with 6+ years of experience building web and mobile applications. Core stack: React, Next.js, TypeScript. React Native for mobile, plus 1–2 years of full-stack work (Node.js, Express, MongoDB). Shipped products across multiple industries, from individuals to corporations. Clear, professional communication; results over hours.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 SKILLS
 
-**Front-end**
-
-```
-React JS · State Management · JavaScript · TypeScript · HTML5 · CSS3
-Next.js · Tailwind CSS · and many related libraries
-```
-
-**Back-end**
+**Technical**
 
 ```
-Node.js · Express.js · MongoDB · Mongoose
-REST API · Firebase · PostgreSQL
+Technical: HTML, CSS, SASS, JavaScript, TypeScript, React, React Native, Next.js, Redux,
+Node.js, Express, MongoDB, Firebase Realtime Database, Mongoose, REST APIs, Puppeteer,
+Shopify
 ```
 
-**Mobile**
+**Tools**
 
 ```
-React Native · Expo
+Git, GitHub, ESLint, Prettier, Figma, Bootstrap, Tailwind CSS, Material UI, WordPress, Jira,
+Zustand, Vite, i18next, jQuery, Jest, Playwright
 ```
 
-**AI & Tools**
+**AI**
 
 ```
-Claude (Anthropic) · OpenAI API · Cursor · GitHub Copilot
-Prompt engineering · AI-assisted development workflows
-Agent SDK integration
+Claude (Anthropic) · Claude Code · OpenAI API · Cursor · GitHub Copilot · Prompt
+engineering · AI-assisted development workflows · Agent SDK integration
+```
+
+**Practices**
+
+```
+Responsive design · Code review · Performance optimization · Web accessibility
+(a11y) · Unit, integration & E2E testing (Jest, Playwright, AI-assisted)
+```
+
+**Soft skills**
+
+```
+Stress-resistant · Persistent & goal-oriented · Diligent · Fast learner · Curious about
+science and technology · Open to new ideas
 ```
 
 ---
 
-- [aiseen.app](https://aiseen.app)
-- [tasialook.com](https://tasialook.com)
-- [Chrome Extension AISEEN.APP](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig)
-- [mapfairytales.com](https://mapfairytales.com)
-- [kradene-ua](https://kradene-ua.vercel.app)
+## PROJECTS
+
+- [aiseen.app](https://aiseen.app) My SaaS — AI-powered website audit (SEO, GEO, security, GDPR); Hetzner +
+OWASP ZAP integration, skill-based code review, full Jest test coverage
+- [tasialook.com](https://tasialook.com)  Full-cycle beauty platform: payments, client auto-bot, community
+management, SEO blog, MongoDB; full test suite (Jest)
+- [Chrome Extension AISEEN.APP](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig) Companion extension for aiseen.app — in-browser
+AI-powered SEO/GEO/security audit
+- [mapfairytales.com](https://mapfairytales.com) LLM-powered fairytale generation with credits system; Firebase backend
+- [kradene-ua](https://kradene-ua.vercel.app) Built end-to-end with Claude Code low-code workflow (CLAUDE.md,
+skills, Claude Design)
 - [sessionmap](https://sessionmap-web.onrender.com)
   
 ---
