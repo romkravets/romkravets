@@ -53,7 +53,7 @@ Agent SDK integration
 - [Chrome Extension AISEEN.APP](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig)
 - [mapfairytales.com](https://mapfairytales.com)
 - [kradene-ua](https://kradene-ua.vercel.app)
-- [sessionmap] (https://sessionmap-web.onrender.com)
+- [sessionmap](https://sessionmap-web.onrender.com)
   
 ---
 
