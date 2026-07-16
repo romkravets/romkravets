@@ -60,6 +60,7 @@ AI-powered SEO/GEO/security audit
 - [kradene-ua](https://kradene-ua.vercel.app) — Built end-to-end with Claude Code low-code workflow (CLAUDE.md,
 skills, Claude Design)
 - [sessionmap](https://sessionmap-web.onrender.com) — Crypto trading sessions visualised on a real-time 3D globe — live prices, whale arc animations, and exchange markers.
+- [freecartop](https://freecartop.vercel.app)
   
 ---
 
