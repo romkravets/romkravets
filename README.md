@@ -60,7 +60,8 @@ AI-powered SEO/GEO/security audit
 - [kradene-ua](https://kradene-ua.vercel.app) — Built end-to-end with Claude Code low-code workflow (CLAUDE.md,
 skills, Claude Design)
 - [sessionmap](https://sessionmap-web.onrender.com) — Crypto trading sessions visualised on a real-time 3D globe — live prices, whale arc animations, and exchange markers.
-- [freecartop](https://freecartop.vercel.app)
+- [freecartop](https://freecartop.vercel.app) - AI-powered car buying assistant for the Ukrainian market. Analyze listings for odometer fraud & red flags, simulate 5 years of ownership costs with AI-generated events, check live market prices from auto.ria, decode VINs via NHTSA, and verify insurance auction history (Copart/IAAI).
+- [verbychenka](https://verbychenka.vercel.app) - Radio Verbychenko is a Ukrainian web app that simulates a nostalgic 90s-style radio station. Users submit dating or commercial announcements, AI rewrites them in a host persona, TTS generates voice audio, and the app schedules music, news, and announcements into a continuous stream. Built with Next.js, Prisma, Supabase, and pluggable TTS providers
   
 ---
 
