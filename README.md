@@ -64,6 +64,7 @@ skills, Claude Design)
 - [verbychenka](https://verbychenka.vercel.app) - Radio Verbychenko is a Ukrainian web app that simulates a nostalgic 90s-style radio station. Users submit dating or commercial announcements, AI rewrites them in a host persona, TTS generates voice audio, and the app schedules music, news, and announcements into a continuous stream. Built with Next.js, Prisma, Supabase, and pluggable TTS providers
 
 - [brAInstormCircle](https://brainstormcircle.vercel.app) - AI brainstorming workspace to compare ChatGPT, Claude, Gemini, and local Ollama models in one place with round-based discussions, cross-check summaries, auto-synthesis, and Markdown export
+- [ipMap](https://ipmap-web.vercel.app) - ipMap is an interactive 3D visualization of global IPv4 address space allocation based on official RIR delegated statistics, with country-level comparison, block-level drill-down, and on-demand RDAP ownership insights.
   
 ---
 
