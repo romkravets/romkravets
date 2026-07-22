@@ -54,7 +54,7 @@ science and technology · Open to new ideas
 OWASP ZAP integration, skill-based code review, full Jest test coverage
 - [tasialook.com](https://tasialook.com) — Full-cycle beauty platform: payments, client auto-bot, community
 management, SEO blog, MongoDB; full test suite (Jest)
-- [Chrome Extension AISEEN.APP](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig) —Companion extension for aiseen.app — in-browser
+- [Chrome Extension aiseen.app](https://chromewebstore.google.com/detail/aiseen-%E2%80%94-seo-geo-security/kncgeojbkcpldbfkdbbnajndhmgppgig) —Companion extension for aiseen.app — in-browser
 AI-powered SEO/GEO/security audit
 - [mapfairytales.com](https://mapfairytales.com) — LLM-powered fairytale generation with credits system; Firebase backend
 - [kradene-ua](https://kradene-ua.vercel.app) — Built end-to-end with Claude Code low-code workflow (CLAUDE.md,
